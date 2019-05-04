@@ -1,0 +1,12 @@
+Buat fungsi cek_grade parameter nilai
+    A = nilainya >= 90
+    B+ = nilainya >= 80
+    B = nilainya >=70
+    C+ = nilainya >= 60
+    C = nliainya >=50
+    D = nilainya >=40
+    E = nilainya >=30
+    sisanya DO
+
+
+Masukkan nilai

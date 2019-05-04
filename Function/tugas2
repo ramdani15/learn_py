@@ -1,0 +1,12 @@
+Buatlah fungsi untuk menambah data(nama) dan menghapus data secara dinamis
+
+ketentuan:
+    - buatlah 3 buah fungsi:
+        - Fungsi pertama untuk menampilkan pilihan menu (tambah data / hapus data) :
+        	- pilih 1 untuk tambah data
+        	- pilih 2 untuk hapus data
+        - fungsi tambah_data untuk menambah data :
+        	- jika data kosong (cetak kosong)
+        	- jika data ada tambah data
+        - fungsi hapus_data untuk menghapus data :
+        	- pilih data yang ingin di hapus
